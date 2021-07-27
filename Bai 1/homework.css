@@ -1,0 +1,10 @@
+table, tbody{
+    border: 1px inset black;
+    width: 100%;
+    /* position: relative; */
+  }
+
+td {
+    position: relative;
+    border: 1px inset black;
+}
